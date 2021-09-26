@@ -1,3 +1,4 @@
 # We Should Add Our Names
 
-* Asis Alsaffar
+- Asis AlSaffar
+- Laila AlKandery
